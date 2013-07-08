@@ -1,4 +1,4 @@
 amoebae
 =======
 
-[Check it out.](www.amoebae.meteor.com)
+[Check it out.](http://www.amoebae.meteor.com)
